@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Marlbo';
+    src: url('font/marlbo.ttf') format('truetype');
+  }
+body {
+    background: #a5a5a5;
+    width: 1024px;
+}
+a {
+    text-decoration: none;
+}

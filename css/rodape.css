@@ -1,0 +1,19 @@
+.rodape {
+	text-align: center;
+	background: url("../img/bg.jpg");
+	padding: 40px 0;
+}
+.rodape__imagem {
+    height: 10rem;
+}
+.rodape a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}

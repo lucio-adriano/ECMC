@@ -1,0 +1,17 @@
+.mapa {
+    text-align: center;
+    padding: 2rem;
+}
+.mapa__titulo {
+    font-family: Marlbo;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+.mapa p{
+    font-size: 22px;
+}
+.mapa-conteudo {
+    width: 100%;
+    margin-top: 0.5rem;
+}
